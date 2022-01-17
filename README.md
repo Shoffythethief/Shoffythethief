@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me volkolakperviy@gmail.com
+- print("Hello world")
 
 <!---
 Shoffythethief/Shoffythethief is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
